@@ -1,0 +1,20 @@
+body{
+	font-family: 'Myriad Pro Regular', sans-serif;
+	min-height: 320px;
+	color: #1d1d1d;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+section{
+	padding: 115px 0;
+}
+
+h1{
+	font-family: 'Myriad Pro Bold';
+	font-size: 44px;
+	margin-bottom: 20px;
+}

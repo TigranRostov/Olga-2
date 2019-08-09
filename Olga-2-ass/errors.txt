@@ -1,0 +1,8 @@
+[2019-8-3 14:23:32] layer "+7(996)007-94-00": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-8-3 14:23:32] layer "info-site@mail.ru": Unsupported extension: ru
+[2019-8-3 14:23:32] layer "+7 (996) 007-94-00": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-8-3 14:23:32] layer "info-site@mail.ru": Unsupported extension: ru
+[2019-8-3 14:23:32] layer "+7 (996) 007-94-00": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-8-3 14:23:32] layer "info-site@mail.ru": Unsupported extension: ru
+[2019-8-3 14:40:10] layer "banner.jpg копия": Expected end of input but "\u043A" found.
+[2019-8-3 15:22:35] layer "advantages-1.png копия": Expected end of input but "\u043A" found.

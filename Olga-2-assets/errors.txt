@@ -1,0 +1,6 @@
+[2019-8-3 14:23:32] layer "+7(996)007-94-00": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-8-3 14:23:32] layer "info-site@mail.ru": Unsupported extension: ru
+[2019-8-3 14:23:32] layer "+7 (996) 007-94-00": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-8-3 14:23:32] layer "info-site@mail.ru": Unsupported extension: ru
+[2019-8-3 14:23:32] layer "+7 (996) 007-94-00": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-8-3 14:23:32] layer "info-site@mail.ru": Unsupported extension: ru
